@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #b73a4d;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+#content {
+  margin-top: 20px;
+  font-size: 18px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: disc;
+  margin-top: 20px;
+  font-size: 18px;
+}
